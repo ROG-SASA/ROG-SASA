@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=R.O.G&fontSize=50&fontAlign=50&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10&height=300&section=header&text=R.O.G&fontSize=100&fontAlign=50&fontAlignY=40" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROG-SASA)](https://github.com/anuraghazra/github-readme-stats)
 
