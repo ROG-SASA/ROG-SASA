@@ -1,11 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a2157,100:FFFFFF&height=250&section=header&text=R.O.G&fontSize=100&fontAlign=50&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=30:0a2157,80:000000&height=200&section=header&text=R.O.G&fontSize=100&fontAlign=50&fontAlignY=52&fontColor=6565d6&desc=Where%20You%20Can%20Draw%20Robots&descAlign=85&descAlignY=82&descSize=20" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROG-SASA)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<h1>R.O.G</h1>
+<h2>Introducing R.O.G</h2>
+R.O.G is a unique robotics club in Sejong Academy of Science and Arts.
 
 <!--
 **ROG-SASA/ROG-SASA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROG-SASA)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
