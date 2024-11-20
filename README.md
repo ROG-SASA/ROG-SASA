@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=30:0a2157,80:000000&height=200&section=header&text=𝐑.𝐎.𝐆&fontSize=100&fontAlign=50&fontAlignY=52&fontColor=6565d6&desc=𝑺𝑨𝑺𝑨%20𝑹𝑶𝑩𝑶𝑻𝑰𝑪𝑺%20𝑫𝑬𝑺𝑰𝑮𝑵%20𝑨𝑵𝑫%20𝑪𝑳𝑼𝑩&descAlign=80&descAlignY=82&descSize=20" />    
+<img src="https://capsule-render.vercel.app/api?type=venom&color=30:0a2157,80:000000&height=200&section=header&text=𝐑.𝐎.𝐆&fontSize=100&fontAlign=50&fontAlignY=52&fontColor=6565d6&desc=𝑺𝑨𝑺𝑨%20𝑹𝑶𝑩𝑶𝑻𝑰𝑪𝑺%20𝑫𝑬𝑺𝑰𝑮𝑵%20𝑨𝑵𝑫%20𝑪𝑳𝑼𝑩&descAlign=77&descAlignY=82&descSize=20" />    
 
 <h1>R.O.G</h1>
 <h2>Introducing R.O.G</h2>
