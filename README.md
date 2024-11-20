@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Here are some ideas to get you started:
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorLis=10&height=200&section=header&text=R.O.G&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorLis=10&height=200&section=header&text=R.O.G&fontSize=50&fontAlign=50&fontAlignY=36" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROG-SASA)](https://github.com/anuraghazra/github-readme-stats)
 
