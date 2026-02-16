@@ -3,6 +3,7 @@
 <h1>R.O.G</h1>
 <h2>Introducing R.O.G</h2>
 R.O.G is a unique robotics club in Sejong Academy of Science and Arts.
+This Github has been closed.
 
 <!--
 **ROG-SASA/ROG-SASA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
